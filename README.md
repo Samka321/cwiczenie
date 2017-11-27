@@ -1,1 +1,2 @@
 # cwiczenie
+#by ja
